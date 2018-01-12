@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceIdentifier</string>
+    <string name="no_internet">An internet connection is required</string>
+</resources>
